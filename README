@@ -1,0 +1,50 @@
+Free Libra Open Source/Hardware JTAG Adapter based on FT2232H chip.
+
+Additionally the adapter also has a TTL level serial interface on channel two.
+
+The hardware is licensed under Creative Commons Share Alike By Attribution 3.0
+
+Copyright 2009 Piotr Esden-Tempski
+
+The pinout:
+===========
+
+JTAG connector adapter side:
+----------------------------
+
+1: TMS
+2: TCK
+3: TDI
+4: TDO
+5: TRST
+6: RST
+7: VREF
+8: GND
+
+JTAG connector mcu side:
+------------------------
+
+1: GND
+2: VREF
+3: RST
+4: TRST
+5: TDO
+6: TDI
+7: TCK
+8: TMS
+
+UART connector adapter side:
+----------------------------
+
+1: 3V3
+2: TXD
+3: RXD
+4: GND
+
+UART connector mcu side:
+------------------------
+
+1: GND
+2: RXD
+3: TXD
+4: 3V3
