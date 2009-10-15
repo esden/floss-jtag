@@ -1,8 +1,6 @@
-Free Libra Open Source/Hardware JTAG Adapter based on FT2232H chip.
+Free Libre Open-Source/-Hardware JTAG/UART Adapter based on FT2232H chip.
 
-Additionally the adapter also has a TTL level serial interface on channel two.
-
-The hardware is licensed under Creative Commons Share Alike By Attribution 3.0
+The hardware is licensed under Creative Commons Share Alike By Attribution 3.0 (CC-BY-SA 3.0)
 
 Copyright 2009 Piotr Esden-Tempski
 
