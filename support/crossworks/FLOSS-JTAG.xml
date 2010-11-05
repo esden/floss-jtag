@@ -1,0 +1,4 @@
+<!DOCTYPE CrossStudio_Target_Definition_File>
+<objects>
+ <GenericFT2232TargetInterface connectedLedMask="0x1000" outputDirection="0x185B" jtagDivider="2" runningLedMask="0x0800" fastMemoryAccessesEnabled="Yes" srstMask="0x0040" trstMask="0x0010" name="FLOSS-JTAG" outputValue="0x0048" />
+</objects>
