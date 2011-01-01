@@ -2,34 +2,7 @@ Free Libre Open-Source/-Hardware JTAG/UART Adapter based on FT2232H chip.
 
 The hardware is licensed under Creative Commons Share Alike By Attribution 3.0 (CC-BY-SA 3.0)
 
-Copyright 2009 Piotr Esden-Tempski
-
-The pinout:
-===========
-
-JTAG connector adapter side:
-----------------------------
-
-1: TMS
-2: TCK
-3: TDI
-4: TDO
-5: TRST
-6: RST
-7: VREF
-8: GND
-
-JTAG connector mcu side:
-------------------------
-
-1: GND
-2: VREF
-3: RST
-4: TRST
-5: TDO
-6: TDI
-7: TCK
-8: TMS
+Copyright 2009-2010 Piotr Esden-Tempski
 
 UART connector adapter side:
 ----------------------------
@@ -39,10 +12,8 @@ UART connector adapter side:
 3: RXD
 4: GND
 
-UART connector mcu side:
-------------------------
+NEWS:
+-----
 
-1: GND
-2: RXD
-3: TXD
-4: 3V3
+- December 11. 2010:
+  FLOSS-JTAG v1.0 is now available at the Joby Robotics shop: https://www.jobyrobotics.com/product.php?id_product=16
