@@ -6,10 +6,15 @@ Copyright 2009-2010 Piotr Esden-Tempski
 
 # UART connector adapter side:
 
-1: 3V3
-2: TXD
-3: RXD
-4: GND
+| Pin No. | Name  |
+|---------|-------|
+| 1       | +3.3V |
+| 2       |  TXD  |
+| 3       |  RXD  |
+| 4       |  GND  |
+
+The numbering of the connector is from left to right when looking from the edge
+of the board at the pins of the header.
 
 # Hardware design file notes:
 
