@@ -12,8 +12,4 @@ UART connector adapter side:
 3: RXD
 4: GND
 
-NEWS:
------
 
-- December 11. 2010:
-  FLOSS-JTAG v1.0 is now available at the Joby Robotics shop: https://www.jobyrobotics.com/product.php?id_product=16
